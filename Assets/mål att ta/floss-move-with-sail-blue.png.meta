@@ -1,55 +1,55 @@
 fileFormatVersion: 2
-guid: 3c1ac8a62177ecd4393dd3c6e9d265c4
+guid: e57959b02de1a7f4198d977583d0ec0b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7563303026772179239
-    second: hai-fin-shadow_0
+      213: -5853040427081016168
+    second: floss-move-with-sail-blue_0
   - first:
-      213: 6852419562377660317
-    second: hai-fin-shadow_1
+      213: 8691269122331758354
+    second: floss-move-with-sail-blue_1
   - first:
-      213: 2034970407415804683
-    second: hai-fin-shadow_2
+      213: -257660014584694737
+    second: floss-move-with-sail-blue_2
   - first:
-      213: 961586949388040709
-    second: hai-fin-shadow_3
+      213: -7126711205526274441
+    second: floss-move-with-sail-blue_3
   - first:
-      213: -862956793313849229
-    second: hai-fin-shadow_4
+      213: 7881565084415124357
+    second: floss-move-with-sail-blue_4
   - first:
-      213: 8452918889892401229
-    second: hai-fin-shadow_5
+      213: -1348968129085336692
+    second: floss-move-with-sail-blue_5
   - first:
-      213: -2880885084769738959
-    second: hai-fin-shadow_6
+      213: -4579676413071889808
+    second: floss-move-with-sail-blue_6
   - first:
-      213: -7343165045777665574
-    second: hai-fin-shadow_7
+      213: -3166153890843270205
+    second: floss-move-with-sail-blue_7
   - first:
-      213: 2868058692116616763
-    second: hai-fin-shadow_8
+      213: -8083335061254428968
+    second: floss-move-with-sail-blue_8
   - first:
-      213: -1554229970961209269
-    second: hai-fin-shadow_9
+      213: -6372927618160137474
+    second: floss-move-with-sail-blue_9
   - first:
-      213: 4264036180818198872
-    second: hai-fin-shadow_10
+      213: -5362581269628867230
+    second: floss-move-with-sail-blue_10
   - first:
-      213: -2249917162318480771
-    second: hai-fin-shadow_11
+      213: -7638181662841303509
+    second: floss-move-with-sail-blue_11
   - first:
-      213: 5396878134763260553
-    second: hai-fin-shadow_12
+      213: 8954352188306665320
+    second: floss-move-with-sail-blue_12
   - first:
-      213: -2050607359183074519
-    second: hai-fin-shadow_13
+      213: -1840036737509921377
+    second: floss-move-with-sail-blue_13
   - first:
-      213: -7801059360540680035
-    second: hai-fin-shadow_14
+      213: 1932847387713859765
+    second: floss-move-with-sail-blue_14
   - first:
-      213: 4764742973230454598
-    second: hai-fin-shadow_15
+      213: 2773212616355875181
+    second: floss-move-with-sail-blue_15
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -82,7 +82,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -145,13 +145,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hai-fin-shadow_0
+      name: floss-move-with-sail-blue_0
       rect:
         serializedVersion: 2
-        x: 41
-        y: 432
-        width: 59
-        height: 129
+        x: 31
+        y: 701
+        width: 109
+        height: 127
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -160,20 +160,284 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 729746fd70046f860800000000000000
-      internalID: 7563303026772179239
+      spriteID: 89cd5d70eb2d5cea0800000000000000
+      internalID: -5853040427081016168
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hai-fin-shadow_1
+      name: floss-move-with-sail-blue_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 701
+        width: 109
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fc7ebe7379d9870800000000000000
+      internalID: 8691269122331758354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-move-with-sail-blue_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 701
+        width: 110
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f287bd5f49b9c6cf0800000000000000
+      internalID: -257660014584694737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-move-with-sail-blue_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 701
+        width: 110
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e7fc1eae5d81d90800000000000000
+      internalID: -7126711205526274441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-move-with-sail-blue_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 467
+        width: 142
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5836faa9fa1f06d60800000000000000
+      internalID: 7881565084415124357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-move-with-sail-blue_5
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 466
+        width: 142
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c839b8c32a0874de0800000000000000
+      internalID: -1348968129085336692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-move-with-sail-blue_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 466
+        width: 143
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a6d940198b170c0800000000000000
+      internalID: -4579676413071889808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-move-with-sail-blue_7
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 467
+        width: 142
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3e010bfcf8f04d0800000000000000
+      internalID: -3166153890843270205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-move-with-sail-blue_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 243
+        width: 142
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d62871d69932df80800000000000000
+      internalID: -8083335061254428968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-move-with-sail-blue_9
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 242
+        width: 142
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efae944b810de87a0800000000000000
+      internalID: -6372927618160137474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-move-with-sail-blue_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 242
+        width: 143
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dab985fb84495b0800000000000000
+      internalID: -5362581269628867230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-move-with-sail-blue_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 243
+        width: 142
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e01781f3abff590800000000000000
+      internalID: -7638181662841303509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-move-with-sail-blue_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 72
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fa2c18fdf344c70800000000000000
+      internalID: 8954352188306665320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-move-with-sail-blue_13
       rect:
         serializedVersion: 2
         x: 190
-        y: 432
-        width: 59
-        height: 132
+        y: 77
+        width: 110
+        height: 141
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -182,20 +446,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d97457b494fa81f50800000000000000
-      internalID: 6852419562377660317
+      spriteID: f9d6d0f0650e676e0800000000000000
+      internalID: -1840036737509921377
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hai-fin-shadow_2
+      name: floss-move-with-sail-blue_14
       rect:
         serializedVersion: 2
-        x: 341
-        y: 432
-        width: 59
-        height: 129
+        x: 353
+        y: 76
+        width: 110
+        height: 142
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,20 +468,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b037376cdcaad3c10800000000000000
-      internalID: 2034970407415804683
+      spriteID: 5b0f9bd557ad2da10800000000000000
+      internalID: 1932847387713859765
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hai-fin-shadow_3
+      name: floss-move-with-sail-blue_15
       rect:
         serializedVersion: 2
-        x: 488
-        y: 432
-        width: 59
-        height: 130
+        x: 516
+        y: 74
+        width: 109
+        height: 144
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,272 +490,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 50afcea5c3e385d00800000000000000
-      internalID: 961586949388040709
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hai-fin-shadow_4
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 338
-        width: 143
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 370940e5e592604f0800000000000000
-      internalID: -862956793313849229
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hai-fin-shadow_5
-      rect:
-        serializedVersion: 2
-        x: 152
-        y: 338
-        width: 145
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d40d933e1fcce4570800000000000000
-      internalID: 8452918889892401229
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hai-fin-shadow_6
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 339
-        width: 143
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 13f149b674a0508d0800000000000000
-      internalID: -2880885084769738959
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hai-fin-shadow_7
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 338
-        width: 142
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ad17b5feb46d71a90800000000000000
-      internalID: -7343165045777665574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hai-fin-shadow_8
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 197
-        width: 143
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3615925f246dc720800000000000000
-      internalID: 2868058692116616763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hai-fin-shadow_9
-      rect:
-        serializedVersion: 2
-        x: 147
-        y: 197
-        width: 145
-        height: 45
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b48679973144e6ae0800000000000000
-      internalID: -1554229970961209269
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hai-fin-shadow_10
-      rect:
-        serializedVersion: 2
-        x: 297
-        y: 198
-        width: 143
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 851051b8056ec2b30800000000000000
-      internalID: 4264036180818198872
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hai-fin-shadow_11
-      rect:
-        serializedVersion: 2
-        x: 446
-        y: 197
-        width: 142
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d7ab3fde240b6c0e0800000000000000
-      internalID: -2249917162318480771
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hai-fin-shadow_12
-      rect:
-        serializedVersion: 2
-        x: 44
-        y: 13
-        width: 59
-        height: 129
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 98a03a6d11095ea40800000000000000
-      internalID: 5396878134763260553
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hai-fin-shadow_13
-      rect:
-        serializedVersion: 2
-        x: 190
-        y: 10
-        width: 59
-        height: 132
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 92b471ea877ca83e0800000000000000
-      internalID: -2050607359183074519
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hai-fin-shadow_14
-      rect:
-        serializedVersion: 2
-        x: 341
-        y: 13
-        width: 59
-        height: 129
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d90ac37e7d11db390800000000000000
-      internalID: -7801059360540680035
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hai-fin-shadow_15
-      rect:
-        serializedVersion: 2
-        x: 491
-        y: 10
-        width: 59
-        height: 132
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 647907d4d74cf1240800000000000000
-      internalID: 4764742973230454598
+      spriteID: d6906847e2e6c7620800000000000000
+      internalID: 2773212616355875181
       vertices: []
       indices: 
       edges: []
@@ -510,22 +510,22 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      hai-fin-shadow_0: 7563303026772179239
-      hai-fin-shadow_1: 6852419562377660317
-      hai-fin-shadow_10: 4264036180818198872
-      hai-fin-shadow_11: -2249917162318480771
-      hai-fin-shadow_12: 5396878134763260553
-      hai-fin-shadow_13: -2050607359183074519
-      hai-fin-shadow_14: -7801059360540680035
-      hai-fin-shadow_15: 4764742973230454598
-      hai-fin-shadow_2: 2034970407415804683
-      hai-fin-shadow_3: 961586949388040709
-      hai-fin-shadow_4: -862956793313849229
-      hai-fin-shadow_5: 8452918889892401229
-      hai-fin-shadow_6: -2880885084769738959
-      hai-fin-shadow_7: -7343165045777665574
-      hai-fin-shadow_8: 2868058692116616763
-      hai-fin-shadow_9: -1554229970961209269
+      floss-move-with-sail-blue_0: -5853040427081016168
+      floss-move-with-sail-blue_1: 8691269122331758354
+      floss-move-with-sail-blue_10: -5362581269628867230
+      floss-move-with-sail-blue_11: -7638181662841303509
+      floss-move-with-sail-blue_12: 8954352188306665320
+      floss-move-with-sail-blue_13: -1840036737509921377
+      floss-move-with-sail-blue_14: 1932847387713859765
+      floss-move-with-sail-blue_15: 2773212616355875181
+      floss-move-with-sail-blue_2: -257660014584694737
+      floss-move-with-sail-blue_3: -7126711205526274441
+      floss-move-with-sail-blue_4: 7881565084415124357
+      floss-move-with-sail-blue_5: -1348968129085336692
+      floss-move-with-sail-blue_6: -4579676413071889808
+      floss-move-with-sail-blue_7: -3166153890843270205
+      floss-move-with-sail-blue_8: -8083335061254428968
+      floss-move-with-sail-blue_9: -6372927618160137474
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

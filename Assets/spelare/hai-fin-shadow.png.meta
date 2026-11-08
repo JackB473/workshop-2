@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 3c1ac8a62177ecd4393dd3c6e9d265c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7563303026772179239
+    second: hai-fin-shadow_0
+  - first:
+      213: 6852419562377660317
+    second: hai-fin-shadow_1
+  - first:
+      213: 2034970407415804683
+    second: hai-fin-shadow_2
+  - first:
+      213: 961586949388040709
+    second: hai-fin-shadow_3
+  - first:
+      213: -862956793313849229
+    second: hai-fin-shadow_4
+  - first:
+      213: 8452918889892401229
+    second: hai-fin-shadow_5
+  - first:
+      213: -2880885084769738959
+    second: hai-fin-shadow_6
+  - first:
+      213: -7343165045777665574
+    second: hai-fin-shadow_7
+  - first:
+      213: 2868058692116616763
+    second: hai-fin-shadow_8
+  - first:
+      213: -1554229970961209269
+    second: hai-fin-shadow_9
+  - first:
+      213: 4264036180818198872
+    second: hai-fin-shadow_10
+  - first:
+      213: -2249917162318480771
+    second: hai-fin-shadow_11
+  - first:
+      213: 5396878134763260553
+    second: hai-fin-shadow_12
+  - first:
+      213: -2050607359183074519
+    second: hai-fin-shadow_13
+  - first:
+      213: -7801059360540680035
+    second: hai-fin-shadow_14
+  - first:
+      213: 4764742973230454598
+    second: hai-fin-shadow_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hai-fin-shadow_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 432
+        width: 59
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729746fd70046f860800000000000000
+      internalID: 7563303026772179239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hai-fin-shadow_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 432
+        width: 59
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d97457b494fa81f50800000000000000
+      internalID: 6852419562377660317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hai-fin-shadow_2
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 432
+        width: 59
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b037376cdcaad3c10800000000000000
+      internalID: 2034970407415804683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hai-fin-shadow_3
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 432
+        width: 59
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50afcea5c3e385d00800000000000000
+      internalID: 961586949388040709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hai-fin-shadow_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 338
+        width: 143
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 370940e5e592604f0800000000000000
+      internalID: -862956793313849229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hai-fin-shadow_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 338
+        width: 145
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40d933e1fcce4570800000000000000
+      internalID: 8452918889892401229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hai-fin-shadow_6
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 339
+        width: 143
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f149b674a0508d0800000000000000
+      internalID: -2880885084769738959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hai-fin-shadow_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 338
+        width: 142
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad17b5feb46d71a90800000000000000
+      internalID: -7343165045777665574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hai-fin-shadow_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 197
+        width: 143
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3615925f246dc720800000000000000
+      internalID: 2868058692116616763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hai-fin-shadow_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 197
+        width: 145
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48679973144e6ae0800000000000000
+      internalID: -1554229970961209269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hai-fin-shadow_10
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 198
+        width: 143
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851051b8056ec2b30800000000000000
+      internalID: 4264036180818198872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hai-fin-shadow_11
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 197
+        width: 142
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ab3fde240b6c0e0800000000000000
+      internalID: -2249917162318480771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hai-fin-shadow_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 13
+        width: 59
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98a03a6d11095ea40800000000000000
+      internalID: 5396878134763260553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hai-fin-shadow_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 10
+        width: 59
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b471ea877ca83e0800000000000000
+      internalID: -2050607359183074519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hai-fin-shadow_14
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 13
+        width: 59
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90ac37e7d11db390800000000000000
+      internalID: -7801059360540680035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hai-fin-shadow_15
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 10
+        width: 59
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647907d4d74cf1240800000000000000
+      internalID: 4764742973230454598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hai-fin-shadow_0: 7563303026772179239
+      hai-fin-shadow_1: 6852419562377660317
+      hai-fin-shadow_10: 4264036180818198872
+      hai-fin-shadow_11: -2249917162318480771
+      hai-fin-shadow_12: 5396878134763260553
+      hai-fin-shadow_13: -2050607359183074519
+      hai-fin-shadow_14: -7801059360540680035
+      hai-fin-shadow_15: 4764742973230454598
+      hai-fin-shadow_2: 2034970407415804683
+      hai-fin-shadow_3: 961586949388040709
+      hai-fin-shadow_4: -862956793313849229
+      hai-fin-shadow_5: 8452918889892401229
+      hai-fin-shadow_6: -2880885084769738959
+      hai-fin-shadow_7: -7343165045777665574
+      hai-fin-shadow_8: 2868058692116616763
+      hai-fin-shadow_9: -1554229970961209269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

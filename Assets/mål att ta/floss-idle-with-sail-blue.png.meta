@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 0b836e46e1021ec4894c80000456ceed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3019470481430818570
+    second: floss-idle-with-sail-blue_0
+  - first:
+      213: 3637715444581850397
+    second: floss-idle-with-sail-blue_1
+  - first:
+      213: -1894581123124382434
+    second: floss-idle-with-sail-blue_2
+  - first:
+      213: 4783327209217502634
+    second: floss-idle-with-sail-blue_3
+  - first:
+      213: 2636273850703571200
+    second: floss-idle-with-sail-blue_4
+  - first:
+      213: 5561335123588555055
+    second: floss-idle-with-sail-blue_5
+  - first:
+      213: 7481952267336918186
+    second: floss-idle-with-sail-blue_6
+  - first:
+      213: -3228934493069154408
+    second: floss-idle-with-sail-blue_7
+  - first:
+      213: 3836879235523813904
+    second: floss-idle-with-sail-blue_8
+  - first:
+      213: 5833710388743739911
+    second: floss-idle-with-sail-blue_9
+  - first:
+      213: 8247914704744413127
+    second: floss-idle-with-sail-blue_10
+  - first:
+      213: 6407811105913327264
+    second: floss-idle-with-sail-blue_11
+  - first:
+      213: 7803005870656711333
+    second: floss-idle-with-sail-blue_12
+  - first:
+      213: 4632727126426645412
+    second: floss-idle-with-sail-blue_13
+  - first:
+      213: -8433966921087887206
+    second: floss-idle-with-sail-blue_14
+  - first:
+      213: -6067124511152538011
+    second: floss-idle-with-sail-blue_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 701
+        width: 108
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0d980589fa816d0800000000000000
+      internalID: -3019470481430818570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 702
+        width: 112
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dd0446ce2cb7230800000000000000
+      internalID: 3637715444581850397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 701
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15b206a18815b5e0800000000000000
+      internalID: -1894581123124382434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 700
+        width: 121
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadaedde0cac16240800000000000000
+      internalID: 4783327209217502634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_4
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 468
+        width: 120
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00966d1891de59420800000000000000
+      internalID: 2636273850703571200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_5
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 468
+        width: 124
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21266664d4dd2d40800000000000000
+      internalID: 5561335123588555055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 464
+        width: 126
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4ab0132fb35d760800000000000000
+      internalID: 7481952267336918186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_7
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 463
+        width: 130
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8976b99af258033d0800000000000000
+      internalID: -3228934493069154408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 245
+        width: 120
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012287706555f3530800000000000000
+      internalID: 3836879235523813904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 245
+        width: 124
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70a9393b0b085f050800000000000000
+      internalID: 5833710388743739911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_10
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 241
+        width: 126
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7f20289ba767270800000000000000
+      internalID: 8247914704744413127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_11
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 240
+        width: 130
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae44c3304e1de850800000000000000
+      internalID: 6407811105913327264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 89
+        width: 108
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aae7cc4f78d94c60800000000000000
+      internalID: 7803005870656711333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 90
+        width: 112
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3f9f7b6c0ca4040800000000000000
+      internalID: 4632727126426645412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_14
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 89
+        width: 114
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98592535c784fa80800000000000000
+      internalID: -8433966921087887206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floss-idle-with-sail-blue_15
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 88
+        width: 121
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56effa0f66e3dcba0800000000000000
+      internalID: -6067124511152538011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      floss-idle-with-sail-blue_0: -3019470481430818570
+      floss-idle-with-sail-blue_1: 3637715444581850397
+      floss-idle-with-sail-blue_10: 8247914704744413127
+      floss-idle-with-sail-blue_11: 6407811105913327264
+      floss-idle-with-sail-blue_12: 7803005870656711333
+      floss-idle-with-sail-blue_13: 4632727126426645412
+      floss-idle-with-sail-blue_14: -8433966921087887206
+      floss-idle-with-sail-blue_15: -6067124511152538011
+      floss-idle-with-sail-blue_2: -1894581123124382434
+      floss-idle-with-sail-blue_3: 4783327209217502634
+      floss-idle-with-sail-blue_4: 2636273850703571200
+      floss-idle-with-sail-blue_5: 5561335123588555055
+      floss-idle-with-sail-blue_6: 7481952267336918186
+      floss-idle-with-sail-blue_7: -3228934493069154408
+      floss-idle-with-sail-blue_8: 3836879235523813904
+      floss-idle-with-sail-blue_9: 5833710388743739911
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
