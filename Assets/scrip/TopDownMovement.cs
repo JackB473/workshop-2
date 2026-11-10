@@ -6,7 +6,7 @@ using UnityEngine.InputSystem;
 // The following components are needed: Player Input
 
 [RequireComponent(typeof(Rigidbody2D), typeof(CapsuleCollider2D))]
-public class TopDownMovement : MonoBehaviour
+public class TopDownMovement : MonoBehaviour 
 {
     public float maxSpeed = 7;
     
@@ -15,6 +15,8 @@ public class TopDownMovement : MonoBehaviour
     private Vector2 moveInput;
     private Rigidbody2D rb;
     
+    
+    
     void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
@@ -22,6 +24,8 @@ public class TopDownMovement : MonoBehaviour
         // Set gravity scale to 0 so player won't "fall" 
         rb.gravityScale = 0;
     }
+
+   
 
     private void Update()
     {
@@ -49,6 +53,7 @@ public class TopDownMovement : MonoBehaviour
     public void OnMove(InputAction.CallbackContext context)
     {
         moveInput = context.ReadValue<Vector2>().normalized;
-        
+       
     }
 }
+
