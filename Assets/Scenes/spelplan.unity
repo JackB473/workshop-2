@@ -19425,7 +19425,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3889138406985037186, guid: a065e1a3e2606bb45b94d9e87c4038c2, type: 3}
       propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.size
-      value: 7
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 3889138406985037186, guid: a065e1a3e2606bb45b94d9e87c4038c2, type: 3}
       propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
@@ -19465,7 +19465,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3889138406985037186, guid: a065e1a3e2606bb45b94d9e87c4038c2, type: 3}
       propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[7].m_Mode
-      value: 2
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 3889138406985037186, guid: a065e1a3e2606bb45b94d9e87c4038c2, type: 3}
       propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Target
@@ -19589,7 +19589,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3889138406985037186, guid: a065e1a3e2606bb45b94d9e87c4038c2, type: 3}
       propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[7].m_MethodName
-      value: set_runtimeAnimatorController
+      value: SetTrigger
       objectReference: {fileID: 0}
     - target: {fileID: 3889138406985037186, guid: a065e1a3e2606bb45b94d9e87c4038c2, type: 3}
       propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
@@ -19665,7 +19665,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3889138406985037186, guid: a065e1a3e2606bb45b94d9e87c4038c2, type: 3}
       propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[7].m_Arguments.m_BoolArgument
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3889138406985037186, guid: a065e1a3e2606bb45b94d9e87c4038c2, type: 3}
+      propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[7].m_Arguments.m_StringArgument
+      value: stop
       objectReference: {fileID: 0}
     - target: {fileID: 3889138406985037186, guid: a065e1a3e2606bb45b94d9e87c4038c2, type: 3}
       propertyPath: onTriggerExit.m_PersistentCalls.m_Calls.Array.data[0].m_Arguments.m_ObjectArgumentAssemblyTypeName
@@ -19705,7 +19709,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3889138406985037186, guid: a065e1a3e2606bb45b94d9e87c4038c2, type: 3}
       propertyPath: onTriggerEnter.m_PersistentCalls.m_Calls.Array.data[7].m_Arguments.m_ObjectArgumentAssemblyTypeName
-      value: UnityEngine.RuntimeAnimatorController, UnityEngine
+      value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 5420331550005660115, guid: a065e1a3e2606bb45b94d9e87c4038c2, type: 3}
       propertyPath: objectToInstantiate
